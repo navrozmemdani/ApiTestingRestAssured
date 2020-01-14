@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-14T20:59:10 IST" name="Default suite" finished-at="2020-01-14T20:59:12 IST" duration-ms="2428">
+    <groups>
+    </groups>
+    <test started-at="2020-01-14T20:59:10 IST" name="Default test" finished-at="2020-01-14T20:59:12 IST" duration-ms="2428">
+      <class name="TC002_POST_Request">
+        <test-method signature="postCustomerRegister()[pri:0, instance:TC002_POST_Request@16e7dcfd]" started-at="2020-01-14T20:59:10 IST" name="postCustomerRegister" finished-at="2020-01-14T20:59:12 IST" duration-ms="2400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCustomerRegister -->
+      </class> <!-- TC002_POST_Request -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
